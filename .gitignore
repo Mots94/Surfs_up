@@ -1,5 +1,7 @@
 # Python files
 test.py
+app.py
+climate_analysis.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
