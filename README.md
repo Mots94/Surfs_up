@@ -9,9 +9,7 @@ In this analysis, the stakeholder would like to know if opening an ice cream sho
 <details><summary>June & December Temperature Data</summary>                                                  
 <p>                                                                                  
                                                                                      
-![june_stats](https://github.com/Mots94/Surfs_up/blob/main/Resources/june_stats.PNG)
-
-![dec_stats](https://github.com/Mots94/Surfs_up/blob/main/Resources/dec_stats.PNG)
+![june_stats](https://github.com/Mots94/Surfs_up/blob/main/Resources/june_stats.PNG) ![dec_stats](https://github.com/Mots94/Surfs_up/blob/main/Resources/dec_stats.PNG)
 
 </p>
 </details>
