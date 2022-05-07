@@ -6,22 +6,15 @@ In this analysis, the stakeholder would like to know if opening an ice cream sho
 
 ## Results
 
-<details><summary>June Temperature Data</summary>                                                  
+<details><summary>June & December Temperature Data</summary>                                                  
 <p>                                                                                  
                                                                                      
 ![june_stats](https://github.com/Mots94/Surfs_up/blob/main/Resources/june_stats.PNG)
-
-</p>
-</details>
-
-<details><summary>December Temperature Data</summary>
-<p>
 
 ![dec_stats](https://github.com/Mots94/Surfs_up/blob/main/Resources/dec_stats.PNG)
 
 </p>
 </details>
-
 
 * For the months of June and December, the sample sizes of temperature observations were 1700 and 1517 respectively.  Although December had a slightly smaller sample, the average temperatures between these two months are not drastically different.  In June, the average temperature on Oahu was 74.94 degrees Fahrenheit and the median temperature was 75 degrees Fahreneheit.  In December, the average temperature was 71.04 degrees Fahrenheit and the median temperature was 71 degrees Fahrenheit.  The means and medians for both months are quite close, so it is safe to assume that this sample of data has a normal distribution. 
 
