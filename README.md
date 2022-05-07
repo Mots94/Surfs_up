@@ -25,4 +25,6 @@ Overall, the temperatures in the months of June and December on Oahu do not appe
 
 ---
 One additional query that could be insightful would be to pull elevation data from the stations table in order to find stations that are closer to beach areas.  This project stakeholder would like to open his shop near the beach to increase foot traffic.  If this business decision is based on all of the data in this database, that may include temperature observations from mountainous regions.  Since these areas would not be highly accessible to beach goers, it would be worthwhile to filter elevation data to find weather stations closer to sea level.
+
+---
 A second query that may provide context for this business decision is a query on precipitation data.  Although an area of Oahu may have consistenly high temperatures, if it experiences heavy rain during the hottest months then customers would not be as abundant.  This query could be used in conjunction with the elevation query to find an area in close proximity to a beach that does not experience too much precipitation.
